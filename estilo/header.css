@@ -1,11 +1,13 @@
 .cabecalho{
     background-color: var(--cor-de-fundo-cabecalho);
     color: white;
+    font-size: 18px;
+    display: flex;
 }
 
 .cabecalho--menu-hamburguer{
-    height: 24px;
-    width: 24px;
+    height: 40px;
+    width: 40px;
     display: inline-block;
     background-position: center;
     background-image: url(../Vector.png);
