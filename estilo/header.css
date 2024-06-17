@@ -13,4 +13,5 @@
     display: inline-block;
     background-position: center;
     background-image: url(../Vector.png);
+    background-repeat: no-repeat;
 }
