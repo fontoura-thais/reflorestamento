@@ -14,6 +14,6 @@ body{
 }
 
 .conteudo1{
-    color: var(--cor-da-font);
-    font-size: medium;
+    color: white;
+    font: size 20%;
 }
