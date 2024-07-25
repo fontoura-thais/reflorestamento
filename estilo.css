@@ -14,5 +14,6 @@ body{
 }
 
 .conteudo1{
-    
+    color: var(--cor-da-font);
+    font-size: medium;
 }
