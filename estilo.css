@@ -21,5 +21,11 @@ body{
 .rodape{
     background-color: #0d8c47;
     color: white;
+    text-align: center;
     
+}
+
+.rodape p{
+    height: 54px;
+    padding-top: 20px;
 }
