@@ -12,3 +12,18 @@
 body{
     background-color: var(--cor-de-fundo);
 }
+
+.conteudo1 p{
+    color: white;
+    font-size: 20px;
+}
+.rodape{
+    background-color: #0d8c47;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.rodape p{
+    height: 44px;
+    padding-top: 20px;
+}
