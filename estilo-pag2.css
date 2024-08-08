@@ -12,6 +12,11 @@
 body{
     background-color: var(--cor-de-fundo);
 }
+
+.cabecalho{
+    height: 54px;
+}
+
 .rodape2{
     background-color: #0d8c47;
 }
