@@ -14,7 +14,7 @@ body{
 }
 
 .cabecalho{
-    
+    height: 54px;
     display: flex;
     justify-content: center;
  
