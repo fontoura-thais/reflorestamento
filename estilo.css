@@ -32,3 +32,16 @@ color: white;
     font-size: 20px;
     margin: 150px;
 }
+
+@media (min-width:1024px){
+    .cabecalho--titulo{
+        font-size: 40px;
+        display: block;
+    }
+    .opcoes{
+        display: block;
+    }
+    .menu{
+        display: none;
+    }
+}

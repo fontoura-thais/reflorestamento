@@ -31,15 +31,3 @@ body{
     font-family: "Inter", sans-serif;
     font-weight: 400;
 }
-@media (min-width:1024px){
-    .cabecalho--titulo{
-        font-size: 50px;
-        display: block;
-    }
-    .opcoes{
-        display: block;
-    }
-    .menu{
-        display: none;
-    }
-}
