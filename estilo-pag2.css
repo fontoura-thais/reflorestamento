@@ -33,7 +33,7 @@ body{
 }
 @media screen and(min-width:1024px){
     .cabecalho{
-        font-size: 35px;
+        font-size: 50px;
         display: block;
     }
     .opcoes{
