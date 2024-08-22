@@ -32,7 +32,8 @@ body{
     font-weight: 400;
 }
 @media screen and(min-width:1024px){
-    .container--titulo{
+    .cabecalho{
+        font-size: 35px;
         display: block;
     }
     .opcoes{
