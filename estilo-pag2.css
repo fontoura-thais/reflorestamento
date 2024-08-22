@@ -38,4 +38,7 @@ body{
     .opcoes{
         display: block;
     }
+    .menu{
+        display: none;
+    }
 }
