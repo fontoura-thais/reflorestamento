@@ -35,4 +35,7 @@ body{
     .container--titulo{
         display: block;
     }
+    .opcoes{
+        display: block;
+    }
 }
